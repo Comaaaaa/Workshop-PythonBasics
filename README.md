@@ -105,6 +105,8 @@ Python comes with built-in functions to facilitate common operations.
   
 Explore more in the [Python documentation](https://docs.python.org/3/library/functions.html).
 
+
+
 **Exercise:** Write a program that takes a sentence input from the user and counts how many words are in the sentence.
 
 ## Introduction to PIP
